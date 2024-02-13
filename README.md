@@ -1,1 +1,2 @@
-# tredeim-AlgorithmsAndDataStructure
+# Algorithms
+Algorithms FCS HSE course homeworks
